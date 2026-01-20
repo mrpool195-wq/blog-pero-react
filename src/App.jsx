@@ -10,14 +10,6 @@ function Home(){
     );
 }
 
-// function Blog(){
-//     return (
-//         <div className="container p-2">
-//             <h2>blog</h2>
-//         </div>
-//     );
-// }
-
 function About(){
     return (
         <div className="container p-2">
